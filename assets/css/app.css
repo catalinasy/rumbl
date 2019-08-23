@@ -1,0 +1,11 @@
+/* This file is for your main application css. */
+
+@import "./phoenix.css";
+
+.title{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    font-size: 70px;
+}
+
